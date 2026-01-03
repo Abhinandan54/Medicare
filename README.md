@@ -6,7 +6,7 @@ Medicare is a comprehensive healthcare management system designed to bridge the 
 
 The project is organized into three main components:
 
-* **frontend/**: The user-facing application (likely for patients/doctors) to book appointments and view medical history.
+* **frontend/**: The user-facing application (patients/doctors) to book appointments and view medical history.
 * **admin/**: A dedicated dashboard for administrators to manage doctors, patients, and system settings.
 * **backend/**: The server-side API that handles data processing, authentication, and database connections.
 
@@ -22,7 +22,7 @@ The project is organized into three main components:
 * Oversee appointment schedules.
 * View system analytics and reports.
 
-### Doctor Panel (If applicable)
+### Doctor Panel 
 * View upcoming appointments.
 * Manage patient details and prescriptions.
 
